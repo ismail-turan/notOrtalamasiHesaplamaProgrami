@@ -23,7 +23,5 @@ public class Main {
         System.out.println("Notlarınızın Ortalaması : " + ortalama);
         boolean sınıfDurumu=ortalama>=60;
         System.out.println("Durum = "+(sınıfDurumu==true ? "Geçti" : "Kaldı"));
-
-
     }
 }
